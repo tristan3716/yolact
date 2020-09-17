@@ -158,3 +158,8 @@ vid/
 vidres/
 
 _.py
+
+images/input/*
+!images/input/.gitkeep
+images/output/*
+!images/output/.gitkeep
